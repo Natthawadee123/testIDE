@@ -16,5 +16,6 @@ function calculator1(num1,num2){
     console.log("summation: ",num1," + ",num2," = ",sum);
     console.log("summation: ",num1," + ",num2," = ",sum);
     console.log("summation: ",num1," + ",num2," = ",sum);
+    console.log("summation: ",num1," + ",num2," = ",sum);
 
 }
